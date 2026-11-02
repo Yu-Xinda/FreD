@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>FreD</h1>
-  <p><strong>Coupling Frequency Refinement and Difficulty-Guided Learning<br>for Industrial Surface Defect Detection</strong></p>
+  <h1>FreD: Coupling Frequency Refinement and Difficulty-Guided Learning for Industrial Surface Defect Detection</h1>
 </div>
 
 FreD is a lightweight framework for industrial surface defect detection, built on YOLO11n. It couples multi-scale frequency refinement with difficulty-guided detection supervision and EMA-teacher consistency learning to address small, elongated, low-contrast, and texture-confusable defects.
